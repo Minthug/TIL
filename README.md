@@ -1,1 +1,7 @@
-ㅋㅋ 충돌
+# TIL
+
+class practic{
+public static void main(Stirng[] arg){
+
+}
+}
